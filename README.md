@@ -1,4 +1,4 @@
-#React Redux Starter
+# React Redux Starter
 
 Reduces startup time for react-redux projects.
 
